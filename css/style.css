@@ -457,7 +457,7 @@ a {
 @media screen and (max-width: 767px) {
   .main-wrapper .main-content .social-bottom {
     display: block;
-    padding-top: 50px;
+    padding-top: 70px;
   }
   .main-wrapper .main-content .social-bottom a {
     display: inline-block;
@@ -485,17 +485,16 @@ a {
         grid-template-columns: repeat(1, 1fr);
   }
   .main-wrapper .main-content .middle-area .services {
-    margin-bottom: 50px;
     text-align: center;
   }
   .main-wrapper .main-content .middle-area .services .services-list ul li {
     margin-bottom: 15px;
   }
   .main-wrapper .main-content .middle-area .services .services-content {
-    padding: 50px 0 150px;
+    padding: 50px 0;
   }
   .main-wrapper .main-content .middle-area .reach-out {
-    padding-bottom: 150px;
+    padding-bottom: 100px;
   }
   .main-wrapper .main-content .middle-area .companies .companies-logos img {
     width: 45px;
